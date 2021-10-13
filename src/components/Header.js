@@ -46,7 +46,7 @@ export function Header() {
                 <div className={classes.grow}></div>
                 <div className={classes.userSection}>
                     <div className={classes.button}>
-                        <Button variant="outlined">
+                        <Button color='primary' variant="contained">
                             Postar
                         </Button>
                     </div>
