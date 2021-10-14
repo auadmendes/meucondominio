@@ -37,7 +37,7 @@ const useStyles = makeStyles((theme) => ({
         justifyContent: 'center',
         alignItems: 'center',
 
-        borderTopLeftRadius: 10,
+        borderTopLeftRadius: 20,
         borderBottomLeftRadius: 10,
     },
     right: {
