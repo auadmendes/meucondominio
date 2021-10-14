@@ -11,4 +11,7 @@ export default {
             main: colors.orange['A400'],
             light: colors.orange[100]
         },
+        third: {
+            main: colors.teal[50],
+        }
 };
